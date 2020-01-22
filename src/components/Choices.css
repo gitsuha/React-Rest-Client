@@ -1,0 +1,22 @@
+#choices {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#choices td, #choices th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#choices tr:nth-child(even){background-color: #f2f2f2;}
+
+#choices tr:hover {background-color: #ddd;}
+
+#choices th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #ff9966;
+  color: white;
+}
