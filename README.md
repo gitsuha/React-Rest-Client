@@ -15,7 +15,7 @@ A sample Web Application created to show React.JS in use with following instrume
 
 From the command prompt clone the project
 
-* $git clone https://github.com/gitsuha/React-Rest-Client.git
+* $git clone https://github.com/suhasissaha/React-Rest-Client.git
 * $cd react-component-communication
 * $npm install
 * $npm start
